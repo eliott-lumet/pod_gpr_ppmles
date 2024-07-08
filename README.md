@@ -6,6 +6,12 @@ for applications that require large ensemble of model evaluations, such as data 
 
 The PPMLES dataset will soon be available online at Zenodo.
 
+### Module requirements
+- numpy
+- h5py
+- scikit-learn
+- joblib
+
 ### References
 
 [1] Marrel, A., Perot, N., and Mottet, C. (2015). Development of a surrogate model and sensitivity analysis for spatio-temporal numerical simulators. Stochastic Environmental Research and Risk Assessment, 29(3):959–974. ISSN 1436-3259. DOI: https://doi.org/10.1007/s00477-014-0927-y.
