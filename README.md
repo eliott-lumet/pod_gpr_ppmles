@@ -10,7 +10,6 @@ The PPMLES dataset will soon be available online at Zenodo.
 - numpy
 - h5py
 - scikit-learn
-- joblib
 
 ### References
 
